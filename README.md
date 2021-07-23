@@ -6,3 +6,4 @@ All tasks as per the requirement have been completed.
 
 ### Screen 1.0
 ![Screen 1.0](assets/Screen1.0.jpg | width=150)
+<img src='assets/Screen1.0.jpg' width=150>
