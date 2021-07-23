@@ -12,3 +12,6 @@ All tasks as per the requirement have been completed.
 
 ### Screen 2
 <img src='assets/Screen2.jpg' width=250>
+
+## Demo Video
+https://user-images.githubusercontent.com/42903821/126780322-69c60c57-1f3e-461a-9353-28772247f933.mp4
