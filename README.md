@@ -5,4 +5,4 @@ All tasks as per the requirement have been completed.
 ## Application Screenshots
 
 ### Screen 1.0
-![Screen 1.0](assets/Screen1.0.jpg)
+![Screen 1.0](assets/Screen1.0.jpg | width=150)
